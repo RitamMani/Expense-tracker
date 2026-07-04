@@ -1,0 +1,6 @@
+{
+  "name": "Smart Expense Tracker",
+  "description": "An AI-powered expense tracking system with automatic categorization, smart budget alerts, financial insights, and conversational analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
